@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Felipe - InvictusPotens
+# Olá, eu sou Felipe - InvictusPotens
 
 ## 🚀 Desenvolvedor Full Stack | Especialista em Automações
 
@@ -6,7 +6,7 @@ Desenvolvedor apaixonado por criar soluções digitais eficientes e escaláveis.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -30,7 +30,7 @@ Desenvolvedor apaixonado por criar soluções digitais eficientes e escaláveis.
 
 ---
 
-## 💼 O que eu faço
+## O que eu faço
 
 - 🌐 **Desenvolvimento Web**: Sites e webapps responsivos e modernos
 - 🔄 **Automações**: Fluxos de trabalho inteligentes com n8n
