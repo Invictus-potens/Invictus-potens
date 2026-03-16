@@ -32,22 +32,33 @@ Desenvolvedor apaixonado por criar soluções digitais eficientes e escaláveis.
 
 ## O que eu faço
 
-- 🌐 **Desenvolvimento Web**: Sites e webapps responsivos e modernos
-- 🔄 **Automações**: Fluxos de trabalho inteligentes com n8n
-- 🔌 **Integrações**: Conexão entre sistemas através de APIs
-- 💾 **Banco de Dados**: Modelagem e otimização com PostgreSQL, MySQL e MongoDB
-- ⚡ **Backend**: APIs RESTful robustas com Node.js
-- 🐧 **Infraestrutura**: Deploy e administração de servidores Linux
+- **Desenvolvimento Web**: Sites e webapps responsivos e modernos
+- **Automações**: Fluxos de trabalho inteligentes com n8n
+- **Integrações**: Conexão entre sistemas através de APIs
+- **Banco de Dados**: Modelagem e otimização com PostgreSQL, MySQL e MongoDB
+- **Backend**: APIs RESTful robustas com Node.js
+- **Infraestrutura**: Deploy e administração de servidores Linux
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Invictus-potens">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Invictus-potens&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invictus-potens&layout=compact&theme=radical"/>
+  </a>
+</div>
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Invictus-potens&theme=radical)](https://git.io/streak-stats)
 
+</div>
+
 ---
 
-## 📫 Vamos conversar?
+## Entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ortiz-b8a05a31b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeommelo@gmail.com)
