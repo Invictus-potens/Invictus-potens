@@ -11,6 +11,9 @@ Desenvolvedor apaixonado por criar soluções digitais eficientes e escaláveis.
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,19 +44,8 @@ Desenvolvedor apaixonado por criar soluções digitais eficientes e escaláveis.
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/Invictus-potens">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Invictus-potens&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invictus-potens&layout=compact&theme=radical"/>
-  </a>
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Invictus-potens&theme=radical)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Invictus-potens&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 ---
