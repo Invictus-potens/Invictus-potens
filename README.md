@@ -1,6 +1,6 @@
 # Olá, eu sou Felipe - InvictusPotens
 
-## Desenvolvedor Full Stack | Especialista em Automações
+## Desenvolvedor Full Stack | Especialista em Integrações
 
 Desenvolvedor apaixonado por criar soluções digitais eficientes e escaláveis. Com quase 2 anos de experiência, transformo ideias em aplicações funcionais que resolvem problemas reais.
 
